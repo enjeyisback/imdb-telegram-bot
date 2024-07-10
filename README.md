@@ -82,9 +82,9 @@ The detailed information will be displayed in the following format:
 
 **Story Line 📖**: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
 
-Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Feel free to customize this `README.md` file further based on your specific needs and details.
